@@ -1,6 +1,1 @@
-# Диплом. Бекэнд
-
-**Описание:**
-
- Публичный IP-адрес сервера: 84.252.142.81
- Домен: enefe-diploma.nomoredomains.icu
+# movies-explorer-api
