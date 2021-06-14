@@ -3,4 +3,4 @@
 **Описание:**
 
  Публичный IP-адрес сервера: 84.252.142.81
- Домен: enefe-diploma.nomoredomains.icu
+ Домен: api.enefe-diploma.nomoredomains.club
